@@ -7,7 +7,7 @@
 
 *Building intelligent systems end-to-end — from ML pipelines to production-ready apps*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-beryl-psi-19.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-seven-delta-add137j6se.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-umerkhan-293922404/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:umerkhn819@gmail.com)
 
@@ -88,15 +88,6 @@ Full-stack cross-platform mobile app with an AI cooking assistant — from recip
 | Generative AI on AWS Bedrock & RAG | Amazon Web Services | ![AWS](https://img.shields.io/badge/AWS_Bedrock-232F3E?style=flat-square&logo=amazonaws&logoColor=white) |
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Umer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=umerkhn819-alt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1B2A&title_color=4A9EE8&icon_color=3DBE8E&text_color=ccd8e2)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=umerkhn819-alt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1B2A&title_color=4A9EE8&text_color=ccd8e2)
-
 </div>
 
 ---
