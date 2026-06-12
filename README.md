@@ -27,7 +27,6 @@ I'm a Computer Science student at **Air University, Islamabad** focused on **AI/
 |  **LLM Integration & RAG** | OpenAI API, LangChain, LlamaIndex |
 |  **Model Training & Evaluation** | PyTorch, scikit-learn |
 |  **MLOps** | Docker, CI/CD, monitoring, cloud deployment |
-|  **Certified** | AWS AI Practitioner (CLF-C01) |
 
 ---
 
