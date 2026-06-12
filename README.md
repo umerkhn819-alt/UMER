@@ -18,16 +18,16 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 I'm a Computer Science student at **Air University, Islamabad** focused on **AI/ML engineering** and **applied LLM systems**. I build intelligent products end-to-end — from data pipelines and model training to RAG systems, evaluation, and production deployments.
 
 | | |
 |---|---|
-| 🤖 **LLM Integration & RAG** | OpenAI API, LangChain, LlamaIndex |
-| 🧪 **Model Training & Evaluation** | PyTorch, scikit-learn |
-| 🧰 **MLOps** | Docker, CI/CD, monitoring, cloud deployment |
-| ☁️ **Certified** | AWS AI Practitioner (CLF-C01) |
+|  **LLM Integration & RAG** | OpenAI API, LangChain, LlamaIndex |
+|  **Model Training & Evaluation** | PyTorch, scikit-learn |
+|  **MLOps** | Docker, CI/CD, monitoring, cloud deployment |
+|  **Certified** | AWS AI Practitioner (CLF-C01) |
 
 ---
 
@@ -69,14 +69,14 @@ A visual AI workflow platform for turning repetitive prompt tasks into reusable 
 <br>
 
 **Core Highlights**
-- 🎨 Visual node editor built with `@xyflow/react` (React Flow)
-- ⚡ Sequential execution engine with node statuses (`idle`, `running`, `done`, `error`, `skipped`)
-- 🔀 **Built-in node types:** Input · Transform · Condition (true/false branching) · AI Summarize · AI Rewrite · AI Custom Prompt · AI Translate · Delay · Output
-- 🧪 Demo mode AI responses — no API key required to explore
-- ↩️ Undo/redo history & run history panel
-- 📤 Import/export JSON workflows
-- 🔗 Shareable URL support (`?wf=...`)
-- 📱 Animated landing page with live demo pipeline
+-  Visual node editor built with `@xyflow/react` (React Flow)
+-  Sequential execution engine with node statuses (`idle`, `running`, `done`, `error`, `skipped`)
+-  **Built-in node types:** Input · Transform · Condition (true/false branching) · AI Summarize · AI Rewrite · AI Custom Prompt · AI Translate · Delay · Output
+-  Demo mode AI responses — no API key required to explore
+-  Undo/redo history & run history panel
+-  Import/export JSON workflows
+-  Shareable URL support (`?wf=...`)
+-  Animated landing page with live demo pipeline
 
 **Architecture**
 - React + Vite + TypeScript frontend — fully standalone in the browser
@@ -94,10 +94,10 @@ A visual AI workflow platform for turning repetitive prompt tasks into reusable 
 
 Real-time ML pipeline that detects fraudulent transactions and explains predictions in plain English.
 
-- ✅ ML classification models served via **FastAPI**
-- 💬 **LLM explanations** for model outputs (OpenAI + LangChain)
-- 📊 Monitoring-ready analytics dashboard
-- 🐳 Fully containerized for reproducible deployment
+-  ML classification models served via **FastAPI**
+-  **LLM explanations** for model outputs (OpenAI + LangChain)
+-  Monitoring-ready analytics dashboard
+-  Fully containerized for reproducible deployment
 
 ---
 
@@ -108,15 +108,6 @@ Real-time ML pipeline that detects fraudulent transactions and explains predicti
 ▸ Fine-tuning task-specific NLP models
 ▸ Experimenting with vector databases & hybrid search
 ```
-
----
-
-## 🏅 Certifications
-
-| Certification | Issuer | Status |
-|---|---|---|
-| AWS Certified AI Practitioner (CLF-C01) | Amazon Web Services | ✅ Verified |
-| Generative AI on AWS Bedrock & RAG | Amazon Web Services | ✅ Verified |
 
 ---
 
